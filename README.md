@@ -22,8 +22,8 @@ Bonuses include looking into the case where the pendulum is oscillated by a sinu
 
 In this project, Monte Carlo simulations were utilized to generate a large amount of neutron samples that penetrate a slab with fixed thickness and investigate the particle transport process.
 By using a discrete Markov chain, the scattering path of a neutron was constructed, which either resulted in the particle being absorbed, transmitted or reflected out of the slab. Therefore, the transmittion and absorbtion rate of the neutron was analyzed based on our given data of their associated cross sections.
-Several plots were plotted to display the random path a particle takes in its scattering process. The randomness in the path as well as the attenuation length of the slab was also explored. In addition, the notebook also features a highly efficient code that simulates the neutron transport process, which utilizes the large numpy array feature.
+Several plots were plotted to display the random path a particle takes in its scattering process. The randomness in the path as well as the attenuation length of the slab was also explored. In addition, the notebook also additionally features a highly efficient code that simulates the neutron transport process, which utilizes the large numpy array feature.
 
-Yeah baby!
+
 
 
